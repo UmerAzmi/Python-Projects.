@@ -17,3 +17,7 @@ number of attempts.
 - if / else logic
 - random module
 - User input validation
+
+## How to Run
+```bash
+python random_number_guesser.py
